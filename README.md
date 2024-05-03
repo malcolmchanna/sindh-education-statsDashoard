@@ -17,7 +17,7 @@
   
      
 #
-![Dashboard](Dashbaord.png)  
+![Dashboard](Dashboard.png)  
 #
  
 
